@@ -1,0 +1,70 @@
+.navbar{
+    height: 75px;
+    background-color: #ffc017;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.logo{
+    margin-left: 70px;
+}
+
+.links{
+    margin-right: 70px;
+}
+
+.logo img{
+    height: 45px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.links a{
+    text-decoration: none;
+    color: black;
+    margin-right: 17px;
+}
+
+#spcl-link{
+    background-color: black;
+    color: white;
+    padding: 10px 23px;
+    border-radius: 40px;
+
+}
+
+a{
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+ .box{
+    height: 455px;
+    background-color: #ffc017;
+    
+ }
+
+ .box1{
+    height: 455px;
+    width: 550px;
+    /* display: flex; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+ }
+
+ .headi{
+    height: 95px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+    font-size: x-large;
+ }
+
+ h3{
+    height: 48px;
+ }

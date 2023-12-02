@@ -1,0 +1,7 @@
+.containers{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    box-shadow: 10px 10px 5px black;
+}

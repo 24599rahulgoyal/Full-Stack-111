@@ -1,0 +1,36 @@
+.circle1{
+    height:150px;
+   width: 150px;
+   background-color: red;
+   border-radius: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   /* margin: 25px;
+   padding: 25px; */
+}
+
+.circle2{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    /* display: flex; */
+   /* align-items: center;
+   justify-content: center; */
+   margin: 25px;
+   /* padding: 20px; */
+}
+
+    
+.circle3{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border-radius: 50%;
+    /* display: flex; */
+   /* align-items: center;
+   justify-content: center; */
+   margin: 25px;
+   /* padding:25px; */
+}

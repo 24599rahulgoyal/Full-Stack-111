@@ -1,0 +1,27 @@
+.child{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    float: left;
+}
+
+/* #child3{
+    position:relative;
+    top: 20px;
+    left: 50pxs;
+} */
+
+#child2{
+    position: absolute;
+    /* right: 0px; */
+    bottom: 0px;
+    left: 0px;
+
+}
+
+.container{
+    height: 90vh;
+    width: 90vw;
+    border: 2px solid green;
+    position: relative;
+}

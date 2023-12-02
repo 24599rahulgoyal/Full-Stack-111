@@ -1,0 +1,31 @@
+.container{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    margin: 100px auto;
+    /* box-shadow: 10px 10px 5px black; */
+
+    box-shadow: 10px 10px 5px black,-10px -10px 5px black;
+    transition: box-shadow 1.5s, transform 1.5s;
+
+    /* transform: rotateX(90deg); */
+    /* transform: rotatey(90deg); */
+    /* transform: rotateZ(45deg); */
+
+    /* transform: translateX(-100px) */
+    /* transform: translateY(100px) */
+    /* transform: translateZ(100px) */
+
+}
+
+.container:hover{
+    box-shadow: 100px 100px 5px black;
+    background-color: red;
+    transform: rotatex(45deg);
+    /* transform: scaleX(1.5); */
+    /* transform: scaleY(1.5); */
+    /* transform: scaleZ(1.5); */
+    /* transform: scale(1.5); */
+    /* transition-duration: 1s; */
+    /* transform: skewX(90deg); */
+}
